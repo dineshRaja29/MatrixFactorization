@@ -1,2 +1,31 @@
 # MatrixFactorization
-Recommender Systems and Matrix Factorization 
+
+RESOURCES
+* https://en.wikipedia.org/wiki/Matrix_factorization_(recommender_systems)
+* https://en.wikipedia.org/wiki/Item-item_collaborative_filtering
+* https://www.youtube.com/watch?v=CFRYNd6YQGY&list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv&index=121
+* https://en.wikipedia.org/wiki/Eigenface
+* https://towardsdatascience.com/evaluation-metrics-for-recommender-systems-df56c6611093
+* http://sdsawtelle.github.io/blog/output/mean-average-precision-MAP-for-recommender-systems.html
+* https://scikit-learn.org/stable/auto_examples/decomposition/plot_faces_decomposition.html#sphx-glr-auto-examples-decomposition-plot-faces-decomposition-py
+* https://bugra.github.io/work/notes/2014-11-16/an-introduction-to-unsupervised-learning-scikit-learn/
+* https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html
+* https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html
+* https://stats.stackexchange.com/questions/134282/relationship-between-svd-and-pca-how-to-use-svd-to-perform-pca
+* https://www.youtube.com/watch?v=hx1ycGVeeD0
+* https://www.youtube.com/watch?v=ZspR5PZemcs
+* https://www.youtube.com/watch?v=pRKZ5z_YL2Y
+* https://arxiv.org/pdf/1901.03888.pdf
+* https://www.google.co.in/search?q=matrix+factorization&rlz=1C2CHBF_enIN824IN824&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi5obWA_aLqAhVVIbcAHVkyAEYQ_AUoAXoECBQQAw&biw=1366&bih=657#imgrc=OGAEun9MLx1tiM
+* https://www.youtube.com/watch?v=biCWRHEul1s
+* https://heartbeat.comet.ml/applications-of-matrix-decompositions-for-machine-learning-f1986d03571a
+* https://mysite.science.uottawa.ca/phofstra/MAT2342/SVDproblems.pdf
+* http://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm
+* http://sepwww.stanford.edu/public/docs/sep73/ray1/paper_html/node3.html
+* https://www.youtube.com/watch?v=YPe5OP7Clv4
+* https://www.youtube.com/watch?v=YPe5OP7Clv4
+* https://www.youtube.com/watch?v=YPe5OP7Clv4
+* https://www.youtube.com/watch?v=YPe5OP7Clv4
+* https://miro.medium.com/max/1920/1*QvhetbRjCr1vryTch_2HZQ.jpeg
+* https://medium.com/@yesilliali/design-a-movie-recommendation-system-with-using-graph-database-neo4j-part-1-2c4933f4da0a
+* https://github.com/fastai/course-nlp/blob/master/2-svd-nmf-topic-modeling.ipynb
