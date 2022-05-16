@@ -1,6 +1,7 @@
 # MatrixFactorization
 
 RESOURCES
+* https://www.youtube.com/watch?v=tG3pUwmGjsc
 * https://en.wikipedia.org/wiki/Matrix_factorization_(recommender_systems)
 * https://en.wikipedia.org/wiki/Item-item_collaborative_filtering
 * https://www.youtube.com/watch?v=CFRYNd6YQGY&list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv&index=121
